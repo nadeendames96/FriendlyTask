@@ -17,7 +17,7 @@ organize daily tasks, assign responsibilities, and track progress.
 - Clean Architecture
 
 ## App in Google play:
-[https://play.google.com/store/apps/details?id=com.techocodee.friendlytask](https://play.google.com/store/apps/details?id=com.techocodee.friendlytask)
+https://play.google.com/store/apps/details?id=com.techocodee.friendlytask
 
 ## Links
 - 🌐 Live Website: https://tech.techcodee.net
