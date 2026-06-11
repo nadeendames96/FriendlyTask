@@ -1,4 +1,4 @@
-# HomeTasks - Family Task Management App
+# FriendlyTasks - Family Task Management App
 
 A Flutter-based family task management application that helps families 
 organize daily tasks, assign responsibilities, and track progress.
@@ -15,6 +15,9 @@ organize daily tasks, assign responsibilities, and track progress.
 - Firebase (Auth, Firestore, FCM)
 - BLoC Pattern
 - Clean Architecture
+
+## google play if you need test app :
+[https://play.google.com/store/apps/details?id=com.techocodee.friendlytask](https://play.google.com/store/apps/details?id=com.techocodee.friendlytask)
 
 ## Links
 - 🌐 Live Website: https://tech.techcodee.net
