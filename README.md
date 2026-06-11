@@ -23,8 +23,5 @@ https://play.google.com/store/apps/details?id=com.techocodee.friendlytask
 - 🌐 Live Website: https://tech.techcodee.net
 - 📩 Contact: nadeen@techocodee.com
 
-## Screenshots
-[Add screenshots here]
-
 ---
 Built with ❤️ by [TechoCodee](https://tech.techocodee.net)
